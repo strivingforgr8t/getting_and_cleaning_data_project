@@ -2,7 +2,6 @@
 #subject - The ID of the test subject
 #Activity_Label - The type of activity performed when the corresponding measurements were taken
 
-
 #MEASUREMENT:
 #tBodyAcc-mean()-X
 #tBodyAcc-mean()-Y
